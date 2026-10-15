@@ -34,7 +34,7 @@ own and stays identical in behaviour.
    falls back to opening the phone's mail app.
 3. Optional: run `supabase-max-leads.sql` in Supabase ▸ SQL Editor so every
    lead is also stored in a table.
-4. Privacy policy URL for both stores: `https://uib-max.vercel.app/privacy`.
+4. Privacy policy URL for both stores: `https://maxai-sable.vercel.app/privacy`.
 
 5. **Demo account for the reviewers.** The app requires a marketing partner login, and
    both stores reject login-gated apps that come without test credentials.
@@ -129,6 +129,6 @@ mailbox; reviewers' test leads can be ignored.
 - Leads arrive at quotes@universalinsurancebroker.com with the subject
   "New Lead (MAX app) – <name>" and dealer sign-ups as "New Dealer Sign-up –
   <name>". If the `max_leads` table exists they are stored there as well.
-- Share the plain link `https://uib-max.vercel.app` on social
+- Share the plain link `https://maxai-sable.vercel.app` on social
   media and dealer counters too; it works as a web page and installs as a
   home-screen app without the stores.

@@ -22,7 +22,7 @@
     const MODEL      = 'claude-haiku-4-5';
     const INQUIRY_TO = 'quotes@universalinsurancebroker.com';
     const AUTH_URL   = SUPABASE_URL + '/auth/v1';
-    const SITE_URL   = 'https://uib-max.vercel.app';   // where confirmation / reset links land
+    const SITE_URL   = 'https://maxai-sable.vercel.app';   // where confirmation / reset links land
     // Shown on the marketing partner sign-up form; the checkbox below it is required.
     const PARTNER_TERMS = [
         'By creating an account you are signing up as a <b>marketing agent (referral partner)</b> of Universal Insurance Brokers. You are not an employee or a licensed agent of the agency, and you do not quote, bind or sell insurance.',
