@@ -48,7 +48,7 @@ dashboard, where you can also add, confirm or delete a salesperson). Two
 settings to check once:
 
 1. **Authentication ▸ URL Configuration**: set *Site URL* to the MAX
-   address (`https://maxai.vercel.app`) and add it to *Redirect
+   address (`https://uib-max.vercel.app`) and add it to *Redirect
    URLs*, so confirmation and password-reset links open the app.
 2. **Authentication ▸ Providers ▸ Email**: *Confirm email* is on by
    default, so a new salesperson must tap the link in the confirmation
